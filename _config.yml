@@ -15,12 +15,11 @@ author: Rachel Wei
 
 navbar-links:
   AP Test Prep: "testprep"
-  Data Structures Work:
-    - Link to Code: "replit-test"
-    - Tech Talk Notes: "techtalks"
-  Data Structures Challenges:
+  Link to Code: "replit-test"
+  Reflections:
     - Week 0: "week0"
     - Week 1: "week1"
+  Tech Talk Notes: "tech talks"
 
 # --- Logo --- #
 
