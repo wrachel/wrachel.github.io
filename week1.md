@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Week 0 Challenges
-subtitle: Notes & Code for week 0
+title: Week 1 Challenges
+subtitle: Notes & Code for week 1
 ---
 ### TT1:
 
