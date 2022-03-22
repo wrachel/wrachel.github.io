@@ -38,3 +38,27 @@ keeping track of first in & first out
 
 ##### Stacks (Last in First Out)
 * built using linked list objects keep track of last item inserted 
+
+
+### TT2
+Mathematical expressions are essentially a finite combination of symbols that execute according to certain rules
+
+We convert strings to Reverse Polish Notation using Shunting-yard algorithm
+
+##### Shunting-Yard Algorithm
+Essentially an algorithm used to parse arithmetical expressions (so, algorithm for PEMDAS expressions)
+* It is stack-based
+
+Infix expressions: The mathematical notation most people are used to
+* e.g.: 3 + 4
+* 3 + 4 x (2-1)
+
+The program converts the infix expressions to **Reverse Polish notation**
+* "3 4 +"
+* "3 4 2 1 - x +"
+
+![image](https://user-images.githubusercontent.com/40574565/159420116-28297795-8713-40aa-996a-60418749962f.png)
+
+For the challenge this week: 
+* Need to consider how numbers need to be formatted from infix expressions to RPN
+* Figure out the operators & seperators Hash Map thing
