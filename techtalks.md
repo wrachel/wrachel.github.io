@@ -62,3 +62,13 @@ The program converts the infix expressions to **Reverse Polish notation**
 For the challenge this week: 
 * Need to consider how numbers need to be formatted from infix expressions to RPN
 * Figure out the operators & seperators Hash Map thing
+
+##### STEPS for calculating RPN:
+1. seperate numbers from String into tokens
+2. Put the tokens into RPN 
+3. Change RPN to calculation
+
+CHALLENGES:
+need to write calculator
+write "power of" operation
+
