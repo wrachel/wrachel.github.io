@@ -23,7 +23,10 @@ Finish MCQ on Tuesday, on Wednesday do _corrections_ for the MCQ
 
 Thursday do a complete FRQ & peer review FRQ
 
-### On week 2:
+## Timebox
+![img_1.png](img_1.png)
+
+### skeleton preparation for  week 2:
 
 Review THESE topics BEFORE MCQ & FRQ
 * Writing and creating classes
