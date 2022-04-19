@@ -26,6 +26,11 @@ Thursday do a complete FRQ & peer review FRQ
 ## Timebox
 ![img_1.png](img_1.png)
 
+## GOALS:
+* Reach at least 30 on each practice MCQ. Each week's practice MCQ should have a better score by of at least 3 (so next practice MCQ get at least 33)
+* Understand all concepts on the test after completing test corrections for MCQ
+* Get at least a 4 on the AP Exam cumulative after adding both MCQ and FRQ scores
+
 ### skeleton preparation for  week 2:
 
 Review THESE topics BEFORE MCQ & FRQ
@@ -39,3 +44,4 @@ Do 1 MCQ and 1 FRQ IN CLASS
 
 Do one additional FRQ practice _outside of class_, specifically 2017 frq: [link](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-frq-2017.pdf)
 and 2018 MCQ practice exam: [link](https://www.apcsaexam.org/mcpractice.html)
+
