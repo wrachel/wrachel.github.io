@@ -30,6 +30,7 @@ Review THESE topics BEFORE MCQ & FRQ
 * Arrays, what questions are asked on Arrays
 * 2D Arrays (and nested for loops)
 * enhanced for loops
+* sorts
 
 Do 1 MCQ and 1 FRQ IN CLASS
 
