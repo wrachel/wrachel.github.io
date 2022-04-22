@@ -4,6 +4,9 @@ title: AP Test Prep Week 1
 subtitle: College Board work Week 1
 ---
 
+### Link to Code running on replit
+[https://replit.com/@RachelWei1/Data-Structures-Indiv#Main.java](https://replit.com/@RachelWei1/Data-Structures-Indiv#Main.java)
+
 # What I am doing week 1 to prepare for the AP Test
 
 Review AP CSA units, including previous college Board notes created
