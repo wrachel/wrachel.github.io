@@ -45,7 +45,7 @@ Do 1 MCQ and 1 FRQ IN CLASS
 Do one additional FRQ practice _outside of class_, specifically 2017 frq: [link](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-frq-2017.pdf)
 and 2018 MCQ practice exam: [link](https://www.apcsaexam.org/mcpractice.html)
 
-## Week 1 MCQ Test Corrections
+# Week 1 MCQ Test Corrections
 Question 5: 
 ![img_2.png](img_2.png)
 Concept: boolean expressions & deMorgan's law
@@ -76,7 +76,7 @@ Correct Answer: 10
 Concept: writing methods
 
 Correct Answer: E, 1 2 3 4 5 6 blackboard
-NEED TO FINISH
+* This is the correct answer, because the function only changes the local variables, therefore the print statement will still print out "1 2 3 4 5 6 blackboard"
 
 Question 27: 
 ![img_6.png](img_6.png)
@@ -95,7 +95,8 @@ Correct Answer: B {1, 2, 3, 5, 4, 6}
 Concept: iterating & sorting arrays
 
 Correct Answer: Compare values 15, assign to temp 5
-NEED TO FINISH
+* since the swap portion is not within the if statement, it will swap the values for every iteration of the outer loop
+* Since the lenth of the array is 6, and the condition is that j < data.length - 1, the outer loop will iterate 5 times, therefore the "assign to temp" will perform 5 times
 
 Question 29:
 ![img_8.png](img_8.png)
@@ -110,8 +111,8 @@ Correct Answer: A, the number of digits in the decimal representation of val is 
 Concept: Recursive sorting
 
 Correct Answer: 11
-* 11 is correct because 
-* NEED TO FINISH
+* 11 is correct because this is essentially calculating the midpoint. If there are 2,000 elements stored, the midpoint can be calculated at most 11 times.
+* 2^11 is 2048
 
 **Question 37:** 
 ![img_10.png](img_10.png)
@@ -120,3 +121,12 @@ Concept: arrays
 Correct Answer: E II and III
 * II is correct (I originally already knew this) because it starts from the end of the array words, and concatenates the other values in words until the startIndex going backwards (done correctly)
 * III is also correct because it first swaps the order of all the values in words, and then concatenates so it successfully adds all the words going in a backwards order
+
+# Week 1 FRQ 
+
+![IMG_4137 (1)](https://user-images.githubusercontent.com/40574565/164790815-193f2518-0887-48a6-a5a2-63583293c4df.JPG)
+![IMG_4138 (1)](https://user-images.githubusercontent.com/40574565/164790846-44858a8f-df99-4b71-9963-156d1ab3646a.JPG)
+![IMG_4139 (1)](https://user-images.githubusercontent.com/40574565/164790886-ac0ab608-0460-4dbb-8acf-b45864294a97.JPG)
+![IMG_4140 (1)](https://user-images.githubusercontent.com/40574565/164790942-cc02ebf7-4ee2-494d-b2ce-faf6d30a22d1.JPG)
+
+
