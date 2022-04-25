@@ -49,6 +49,8 @@ Do one additional FRQ practice _outside of class_, specifically 2017 frq: [link]
 and 2018 MCQ practice exam: [link](https://www.apcsaexam.org/mcpractice.html)
 
 # Week 1 MCQ Test Corrections
+### Score: 30/39
+
 Question 5: 
 ![img_2.png](img_2.png)
 
