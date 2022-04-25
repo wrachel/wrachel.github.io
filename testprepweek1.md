@@ -51,14 +51,17 @@ and 2018 MCQ practice exam: [link](https://www.apcsaexam.org/mcpractice.html)
 # Week 1 MCQ Test Corrections
 Question 5: 
 ![img_2.png](img_2.png)
+
 Concept: boolean expressions & deMorgan's law
 
 Correct answer: A
-* This answer is correct because x is always true to (x || y) && x --> (x or y) && x --> (anything) && x --> x
+* This answer is correct because: 
+  * ```(x or y) && x --> (anything) && x --> x```
 
 
 Question 19: 
 ![img_3.png](img_3.png)
+
 Concept: loops 
 
 Correct answer: E, I, II, and III
@@ -68,6 +71,7 @@ Correct answer: E, I, II, and III
 
 Question 25:
 ![img_4.png](img_4.png)
+
 Concept: nested for loops
 
 Correct Answer: 10
@@ -76,6 +80,7 @@ Correct Answer: 10
 
 **Question 26:**
 ![img_5.png](img_5.png)
+
 Concept: writing methods
 
 Correct Answer: E, 1 2 3 4 5 6 blackboard
@@ -83,6 +88,7 @@ Correct Answer: E, 1 2 3 4 5 6 blackboard
 
 Question 27: 
 ![img_6.png](img_6.png)
+
 Concept: Iterating through and sorting arrays
 
 Correct Answer: B {1, 2, 3, 5, 4, 6}
@@ -95,6 +101,7 @@ Correct Answer: B {1, 2, 3, 5, 4, 6}
 
 **Question 28:** 
 ![img_7.png](img_7.png)
+
 Concept: iterating & sorting arrays
 
 Correct Answer: Compare values 15, assign to temp 5
@@ -103,6 +110,7 @@ Correct Answer: Compare values 15, assign to temp 5
 
 Question 29:
 ![img_8.png](img_8.png)
+
 Concept: Recursion
 
 Correct Answer: A, the number of digits in the decimal representation of val is returned
@@ -111,6 +119,7 @@ Correct Answer: A, the number of digits in the decimal representation of val is 
 
 **Question 36:**
 ![img_9.png](img_9.png)
+
 Concept: Recursive sorting
 
 Correct Answer: 11
@@ -119,6 +128,7 @@ Correct Answer: 11
 
 **Question 37:** 
 ![img_10.png](img_10.png)
+
 Concept: arrays
 
 Correct Answer: E II and III
