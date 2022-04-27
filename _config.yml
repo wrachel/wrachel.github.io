@@ -17,6 +17,7 @@ navbar-links:
   AP Test Prep:
     - test prep: "testprep"
     - week 1: "testprepweek1"
+    - 2020 mcq correcttions: "2020mcq"
   Link to Code: "replit-test"
   Reflections:
     - Week 0: "week0"
